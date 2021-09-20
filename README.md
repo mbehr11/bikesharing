@@ -18,46 +18,47 @@ After vacationing with your friend Kate in New York City, you were looking throu
 •	Are the users typically male or female most commonly?
 •	How many trips were recorded in total in August?
 
+[https://public.tableau.com/app/profile/morgan.behr/viz/NYC_CitiBike_tableau/NYCCitibikeanalysis?publish=yes](LINK GOES HERE)
 
 ### Bikesharing_Analysis: ###
 1.	#### Top Checkout Times:  ####
 
-![alttext]( Resources/ Top_Checkout_Times.PNG) 
+![alttext](https://github.com/mbehr11/bikesharing/blob/main/Resources/Top_Checkout_Times.PNG) 
 
 •	As you can see from the above visualization, bikes were most often rented to travel for around 5 minutes. If we take this data to Des Moines, then we can set up locations and trip destinations around 5 minutes apart from each other.  
 
 2.	#### Top Checkout Times by Gender ####
 
-![alttext]( Resources / Top_Checkout_Times_by_Gender.PNG)
+![alttext](https://github.com/mbehr11/bikesharing/blob/main/Resources/Top_Checkout_Times_by_Gender.PNG)
 
 •	In this above visualization, we can see that males were most often using the bikes at count of 108, 087 compared to females at 34,151 and unknown at 7,389. This tells me that for eds Monies, we need to cater advertising towards males, but also find different campaign strategies to attract females as well. Such as through targeted advertising or specials for females. 
 
 3.	#### Top Times for Bike Use by Weekday ####
 
-![alttext]( Resources / Top_Times_for_Bikeuse_by_Weekday.PNG)
+![alttext](https://github.com/mbehr11/bikesharing/blob/main/Resources/Top_Times_for_Bikeuse_by_Weekday.PNG)
 
 •	For this above visualization, we can see that the most popular time for bike use is between 5 and 6 pm. Which means people are most often using them once they get off work. For Des Moines, we could start to target those times for surge pricing and offer deals to bring more people in during that peak time. 
 
 4.	#### Top Trip Time by Gender & Hour ####
 
-![alttext]( Resources / Top_Trip_Times_by_Gender&Hour.PNG)
+![alttext](https://github.com/mbehr11/bikesharing/blob/main/Resources/Top_Trip_Times_by_Gender%26Hour.PNG)
 
 In this visualization We can see that the males most often use the bikes on Thursdays between 5 and 6 pm. This seems to tie in with the time when most people are getting off work. If we were bringing the bikes to Des Moines, I would work with local businesses to tie in deals on bike trips and restaurants/bars for happy hour deals to attract more customers.  I also see a slight peak around 8 am when people are going into work, so we could provide targeted advertising and deals to increase use during those times. 
 
 5.	#### User type & Popular Use Time by Gender ####
 
-![alttext]( Resources/ Usertype&_Popular_Use_Time_by Gender )
+![alttext]( https://github.com/mbehr11/bikesharing/blob/main/Resources/Usertype%26_Popular_Use_Time_by%20Gender.PNG )
 
 •	For this visualization, we took the previous visual and broke it down by User type as well. We can see that subscribers to the bike app are most often to use the service. Also, again it is most popular with males and on Thursdays and Fridays. 
 
 6.	#### Top Starting Locations ####
 
-![alttext]( Resources/Top_Starting_Locations.PNG )
+![alttext](https://github.com/mbehr11/bikesharing/blob/main/Resources/Top_Starting_Locations.PNG )
 
 •	I decided to add this visualization to the story because we see where most often people are picking up the bikes. This shows that latitude 40.7609 and longitude -74.0028 was the most popular starting locations. We can take this information to our startup in Des Moines to help us map out where our bikes stations need to be set up at. 
 •	
 7.	#### Top Ending Locations ####
-![alttext]( Resources/Top_Ending_Locations.PNG )
+![alttext](https://github.com/mbehr11/bikesharing/blob/main/Resources/Top_Ending_Locations.PNG)
 
 •	For this visualization I decided to also add the top ending locations so we could track on a map the most common trips people were taking and where they were ending up at. The most popular ending location was 40.7609 and longitude -74.0028.  So as you can see most people rode their bikes in a circular route around that location We can take this information to our startup in Des Moines to help us map out where our bikes stations need to be and put it near popular bars and restaurants. 
 
