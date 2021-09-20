@@ -18,7 +18,7 @@ After vacationing with your friend Kate in New York City, you were looking throu
 •	Are the users typically male or female most commonly?
 •	How many trips were recorded in total in August?
 
-[https://public.tableau.com/app/profile/morgan.behr/viz/NYC_CitiBike_tableau/NYCCitibikeanalysis?publish=yes](LINK GOES HERE)
+[https://public.tableau.com/app/profile/morgan.behr/viz/NYC_CitiBike_tableau/NYCCitibikeanalysis?publish=yes] (LINK GOES HERE)
 
 ### Bikesharing_Analysis: ###
 1.	#### Top Checkout Times:  ####
