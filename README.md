@@ -1,7 +1,6 @@
 #Bikesharing_Analysis
 Tableau week 14
 # Bikesharing_Analysis
-Working with Amazing Prime using SQL with PGadmin4 and python
 ## Overview of Bikesharing_Analysis:
 After vacationing with your friend Kate in New York City, you were looking through your vacation photos when you had a brilliant idea. Part of what made your trip so enjoyable was being able to travel around the city using a service called Citibike. This allowed you to really get to know the city and the people who lived there on a more personal level. So, what if you could bring a similar bike sharing company to your hometown of Des Moines, Iowa. You immediately brought this idea up to Kate and start brainstorming on how to make this happen. She follows up with you after a few weeks and has great news. A potential investor might be interested in providing funding to explore a bikeshare program in Des Moines. But first, we need to do an analysis of how the program was successful in New York. Then, we can bring ideas to the table of how it would be successful in Des Moines. 
 #### The below pseudocode provided us an outline for the analysis ####
